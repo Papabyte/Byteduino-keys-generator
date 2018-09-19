@@ -1,1 +1,1 @@
-# Byteball paper wallet
+# Byteduino keys generator
